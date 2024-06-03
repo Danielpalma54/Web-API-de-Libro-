@@ -43,7 +43,8 @@ El controlador LibroController gestiona las solicitudes HTTP relacionadas con li
 
 -- LIBRO NO ENCONTRADA
 
-![image](https://github.com/Danielpalma54/Web-API-de-Libro-/assets/147771801/7af89c2c-1f2a-4dd5-bb05-8049ef5b2da5)
+![image](https://github.com/Danielpalma54/Web-API-de-Libro-/assets/147771801/24f24a78-839d-4f6c-89ad-5ff7b1b240b5)
+
 
 -- LIBRO CREADO
 
