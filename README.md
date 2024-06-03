@@ -17,3 +17,7 @@ ExceptionHandler: Esta clase actúa como un manejador global de excepciones y de
 
 El controlador LibroController gestiona las solicitudes HTTP relacionadas con libros, delegando las operaciones de negocio al servicio LibroService. Utiliza anotaciones como @GetMapping y @PostMapping para mapear las solicitudes a métodos específicos, proporcionando respuestas adecuadas según las operaciones realizadas, como obtener una lista de libros, recuperar un libro por su ID y crear un nuevo libro. 
 
+
+# Modificacion de los API
+** Si no existe el libro, lanzar un expcetion LibroException (GET /libros/{id_libro}). Enviar el estado NOT_FOUND con un mensaje personalizado
+
