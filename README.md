@@ -20,4 +20,19 @@ El controlador LibroController gestiona las solicitudes HTTP relacionadas con li
 
 # Modificacion de los API
 ** Si no existe el libro, lanzar un expcetion LibroException (GET /libros/{id_libro}). Enviar el estado NOT_FOUND con un mensaje personalizado
+--LibroException
+
+![image](https://github.com/Danielpalma54/Web-API-de-Libro-/assets/147771801/779c864d-23e8-46b6-8a9d-6e274d2c2a72)
+
+--LibroException
+
+![image](https://github.com/Danielpalma54/Web-API-de-Libro-/assets/147771801/db89e282-a357-445b-b34e-3dc1867a2bd7)
+
+--RExceptionHandler
+
+![image](https://github.com/Danielpalma54/Web-API-de-Libro-/assets/147771801/cf5522a3-097c-4114-bea0-8aaa306a18cc)
+
+
+
+
 
